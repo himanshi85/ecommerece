@@ -14,6 +14,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 
 import 'basicinfo.dart';
+import 'cart.dart';
 import 'dummyregister.dart';
 
 void main() {

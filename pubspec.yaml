@@ -47,6 +47,8 @@ dependencies:
   dropdown_textfield:
   flutter_custom_cards:
   flutter_cache_manager:
+  razorpay_flutter:
+  number_inc_dec:
 
 
 dev_dependencies:
